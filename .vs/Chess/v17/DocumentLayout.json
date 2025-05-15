@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bamel\\source\\repos\\Chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\promotionmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\promotionmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\gameovermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\gameovermenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|c:\\users\\bamel\\source\\repos\\chess\\chess_ui\\gameovermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D7CB92A-BD3D-4797-B298-E7381E9D30FF}|Chess_UI\\Chess_UI.csproj|solutionrelative:chess_ui\\gameovermenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Chess_UI\\MainMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainMenu.xaml.cs",
+              "RelativeToolTip": "Chess_UI\\MainMenu.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:41:51.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromotionMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\PromotionMenu.xaml",
+              "RelativeDocumentMoniker": "Chess_UI\\PromotionMenu.xaml",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\PromotionMenu.xaml",
+              "RelativeToolTip": "Chess_UI\\PromotionMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-02T16:32:17.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\GameOverMenu.xaml.cs",
+              "RelativeDocumentMoniker": "Chess_UI\\GameOverMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\GameOverMenu.xaml.cs",
+              "RelativeToolTip": "Chess_UI\\GameOverMenu.xaml.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAIAwwEAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:24:54.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOverMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\GameOverMenu.xaml",
+              "RelativeDocumentMoniker": "Chess_UI\\GameOverMenu.xaml",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\GameOverMenu.xaml",
+              "RelativeToolTip": "Chess_UI\\GameOverMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-30T11:24:52.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Chess_UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Chess_UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAALIAAAAAAAAAAAAwwJUBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:50:53.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Chess_UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bamel\\source\\repos\\Chess\\Chess_UI\\MainWindow.xaml",
+              "RelativeToolTip": "Chess_UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-28T13:02:17.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chess_UI/1.0.0": {
+        "dependencies": {
+          "Chess_Logic": "1.0.0"
+        },
+        "runtime": {
+          "Chess_UI.dll": {}
+        }
+      },
+      "Chess_Logic/1.0.0": {
+        "runtime": {
+          "Chess_Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chess_UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chess_Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

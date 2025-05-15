@@ -1,0 +1,101 @@
+﻿<Window x:Class="Chess_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chess_UI"
+        mc:Ignorable="d"
+        Title="Chess"
+        Width="900"
+        Height="700"
+        Icon="Assets/icon.ico"
+        Background="#202020"
+        WindowState="Normal"
+        ResizeMode="NoResize"
+        WindowStyle="SingleBorderWindow"
+        WindowStartupLocation="CenterScreen"
+        KeyDown="Window_KeyDown">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+
+        <Viewbox Grid.Column="0" Stretch="Uniform" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <Grid x:Name="BoardGrid" Width="700" Height="700" MouseDown="BoardGrid_MouseDown"  RenderTransformOrigin="0.5,0.5">
+                <Grid.RenderTransform>
+                    <ScaleTransform x:Name="BoardTransform" ScaleX="1" ScaleY="1"/>
+                </Grid.RenderTransform>
+                
+                <Grid.Background>
+                    <ImageBrush ImageSource="Assets/Board.png" Stretch="Uniform"/>
+                </Grid.Background>
+
+                <UniformGrid x:Name="MoveHighLightGrid" Rows="8" Columns="8" />
+                <UniformGrid x:Name="PieceGrid" Rows="8" Columns="8" RenderOptions.BitmapScalingMode="HighQuality" />
+                <UniformGrid x:Name="HighLightGrid" Rows="8" Columns="8" />
+            </Grid>
+        </Viewbox>
+
+        <Viewbox Grid.Column="1" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel x:Name="RightPanel" Background="#202020" Width="385" Height="700">
+                <Border Background="#3b3e3b" 
+                        Padding="0" 
+                        BorderThickness="2" 
+                        CornerRadius="10" 
+                        Width="300" 
+                        Height="700" 
+                        HorizontalAlignment="Center">
+
+                    <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock x:Name="BlackNameBox"
+                                   Text="Player Black" 
+                                   FontFamily="Franklin Gothic" 
+                                   HorizontalAlignment="Center" 
+                                   FontSize="30" 
+                                   Foreground="White" 
+                                   Margin="0,0,0,15" />
+
+                        <Border x:Name="Timer2Border" 
+                                Background="#202020" 
+                                Padding="5" 
+                                Margin="0,5,0,380" 
+                                CornerRadius="10" 
+                                Width="250" Height="60">
+                            <TextBlock x:Name="Timer2" 
+                                       Text="00:00" 
+                                       HorizontalAlignment="Center" 
+                                       VerticalAlignment="Center"
+                                       FontSize="36" 
+                                       Foreground="White" />
+                        </Border>
+
+                        <Border x:Name="Timer1Border" 
+                                Background="LightGray" 
+                                Padding="5" 
+                                Margin="0,0,0,0" 
+                                CornerRadius="10" 
+                                Width="260" Height="60">
+                            <TextBlock x:Name="Timer1" 
+                                       Text="00:00" 
+                                       HorizontalAlignment="Center"
+                                       VerticalAlignment="Center"
+                                       FontSize="36" 
+                                       Foreground="Black" />
+                        </Border>
+
+                        <TextBlock x:Name="WhiteNameBox"
+                                   Text="Player White" 
+                                   FontFamily="Franklin Gothic" 
+                                   HorizontalAlignment="Center" 
+                                   FontSize="30" 
+                                   Foreground="White" 
+                                   Margin="0,20,0,0" />
+                    </StackPanel>
+                </Border>
+            </StackPanel>
+        </Viewbox>
+        <ContentControl x:Name="MenuContainer"/>
+    </Grid>
+</Window>

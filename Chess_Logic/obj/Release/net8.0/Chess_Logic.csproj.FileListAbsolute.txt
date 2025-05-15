@@ -1,0 +1,11 @@
+C:\Users\bamel\source\repos\Chess\Chess_Logic\bin\Release\net8.0\Chess_Logic.deps.json
+C:\Users\bamel\source\repos\Chess\Chess_Logic\bin\Release\net8.0\Chess_Logic.dll
+C:\Users\bamel\source\repos\Chess\Chess_Logic\bin\Release\net8.0\Chess_Logic.pdb
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.AssemblyInfoInputs.cache
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.AssemblyInfo.cs
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.csproj.CoreCompileInputs.cache
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.dll
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\refint\Chess_Logic.dll
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\Chess_Logic.pdb
+C:\Users\bamel\source\repos\Chess\Chess_Logic\obj\Release\net8.0\ref\Chess_Logic.dll
